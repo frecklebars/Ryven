@@ -4,6 +4,8 @@ This fork implements a few machine learning algorithms using [Scikit-Learn](http
 
 Full list of implemented nodes [here](/implemented.md)
 
+Kaggle Titanic competition solved with this fork of Ryven [here](https://www.kaggle.com/frecklebars/ml-flow-based-visual-coding-using-ryven)
+
 Continuing is the original readme:
 
 ---
